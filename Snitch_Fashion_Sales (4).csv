@@ -1,0 +1,10 @@
+Order_ID,Customer_Name,Product_Category,Product_Name,Units_Sold,Unit_Price,Discount_%,Sales_Amount,Order_Date,City,Segment,Profit
+1000,Brian Thompson,Jeans,Slim Fit Jeans,,842,0.6,0,27-02-2025,Delhi,B2C,2137.45
+1001,Shaun Ross,Jeans,Slim Fit Jeans,1,,,0,15-07-2025,Ahmedabad,,1588.15
+1002,Sarah Snyder,Jackets,Puffer Coat,1,637.82,,0,02-01-2025,Mumbai,B2B,-158.03
+1003,Jay Briggs,Shoes,Loafers,2,2962.27,,0,18-06-2025,bengaluru,B2B,2296.5
+1004,Maria Blake,Accessories,Belts,1,2881.07,0.27,2103.18,,hyderbad,,63.66
+1005,Samuel Miller,T-Shirts,Crop Top,,,,0,05-12-2023,Mumbai,B2B,1477.73
+1006,John Mclean,Jeans,Boyfriend Jeans,1,2060.85,,0,02-04-2024,Ahmedabad,B2B,198.36
+1007,Dr. Kathryn Bass PhD,Dresses,Casual Midi,,3669.56,,0,,Bangalore,B2C,2490.01
+1008,Marie Fisher,Accessories,Sunglasses,,,,0,,Ahmedabad,B2C,-886.8
